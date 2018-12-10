@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>My blog</h1>
-<p>Hello world</p>
-<a href="posts">see my posts</a>
-
+<p>Here are my posts</p>
 </body>
 </html>
